@@ -1,0 +1,21 @@
+{
+  "name": "GruntDemo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hongqx/GruntDemo",
+  "authors": [
+    "hongqx <hongqiongxing@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.20",
+    "jquery": "~2.1.4",
+    "angularjs": "~1.4.3"
+  }
+}
